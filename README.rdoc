@@ -1,0 +1,5 @@
+== PURPOSE
+
+This represents a set of .gitignore files CleverUA uses as defaults when starts out
+a new project. Hopefully it will save you a minute some day :)
+
