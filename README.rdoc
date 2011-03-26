@@ -1,5 +1,12 @@
 == PURPOSE
 
 This represents a set of .gitignore files CleverUA uses as defaults when starts out
-a new project. Hopefully it will save you a minute some day :)
+a new project. It saves us a couple of minutes monthly :)
 
+== PROJECT TYPES
+
+It has the ignore files for the following list of project types:
+
+* iOS project for XCode 4
+* Android
+* Rails 3
