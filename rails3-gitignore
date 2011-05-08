@@ -4,9 +4,9 @@ log/*.log
 tmp/**/*
 config/database.yml
 config/application_config.yml
-config/database.yml
 vendor/bundle_gems
 db/schema.rb
 *.swp
 public/system/*
 db/development_structure.sql
+
