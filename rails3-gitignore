@@ -9,4 +9,4 @@ db/schema.rb
 *.swp
 public/system/*
 db/development_structure.sql
-
+tags
